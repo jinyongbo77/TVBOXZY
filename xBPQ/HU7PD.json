@@ -1,12 +1,12 @@
 {
 "站名":"HU7PD",
-"主页url":"https://www.hu7pd.com",
+"主页url":"https://www.hu7pd.com/index/home.html",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"<div class=\"img-tag\">&&</div>",
-"线路数组":"<div class=\"item line\">&&</div>",
-"线路标题":">&&</a>",
+"线路数组":"<a class=\"btn btn-m btn-default\">&&</a>",
+"线路标题":"title=\"&&\"",
 "搜索url":"/gaosearch/{wd}-/page/{pg}/",
 "搜索模式":"1",
 "搜索副标题":"<div class=\"img-tag\">&&</div>",
@@ -59,3 +59,4 @@
 ]
 }
 }
+
