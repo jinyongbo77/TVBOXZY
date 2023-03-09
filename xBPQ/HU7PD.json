@@ -4,6 +4,7 @@
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
+"链接前缀":"https://www.hu7pd.com/",
 "副标题":"<div class=\"img-tag\">&&</div>",
 "线路数组":"<a class=\"btn btn-m btn-default\">&&</a>",
 "线路标题":"title=\"&&\"",
